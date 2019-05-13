@@ -1,4 +1,3 @@
-
 appuser:
   name: vagrant
   group: vagrant
